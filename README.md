@@ -55,6 +55,7 @@ These models are particularly useful in analyzing financial datasets, such as cr
   - `matplotlib`
   - `seaborn`
   - `statsmodels`
+  - `particles`
 
 ### Installation
 Clone this repository:
@@ -70,23 +71,6 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Data Preprocessing
-Ensure the data files are in the `data/` directory. Use the provided scripts in `scripts/` to preprocess the data if required:
-```bash
-python scripts/preprocess_data.py
-```
-
-### Model Estimation
-Run the main script to estimate copula models:
-```bash
-python scripts/copula_models.py
-```
-
-### Results and Visualization
-Use the Jupyter notebooks in `notebooks/` to analyze and visualize results:
-```bash
-jupyter notebook notebooks/analysis.ipynb
-```
 
 ## Results
 
