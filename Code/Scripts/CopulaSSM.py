@@ -1,3 +1,9 @@
+#######################################
+
+#This was an intention of imlementation of the whole copula model proposed in the paper, but as we were not asked for this part, we did not finish it
+
+######################################
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
